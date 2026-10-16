@@ -1,6 +1,3 @@
 # Examples
 
-## TODO
-
-- Add end-to-end walkthrough examples that tie together the ingestion, processing, and partner integration patterns
-- Each example should reference the relevant ADRs and documentation
+Planned. For now, the tests in [`tests/`](../tests) are the walkthroughs: each file is named after the requirement it exercises (`test_r3_consent.py`, `test_r4_residency.py`, and so on) and reads as a short scenario.
