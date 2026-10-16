@@ -34,8 +34,8 @@ Planned next: ADR-001 (multi-region strategy), ADR-003 (partner integration patt
 
 Written by Deokhwa Jeong.
 
-- LG Electronics, 2011 to 2021: Software Engineer (embedded, Smart TV) 2011 to 2013, then Senior Technical Program Manager for the webOS Smart TV platform 2013 to 2021
-- Integrated 20+ OTT partner services; ran the LG Content Store across 53 countries
+- LG Electronics: Software Engineer, NPI & Mass Production (2011 to 2013), then Senior Technical Program Manager, Platform Integration (2013 to 2021)
+- Held go / no-go certification authority for 20+ streaming partners across 100+ TV models; ran the LG Content Store across 53 countries; built the Smart TV privacy compliance program (GDPR, CCPA)
 - M.S. Software Management, Carnegie Mellon University (expected December 2027)
 
 ## License
