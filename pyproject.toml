@@ -1,0 +1,31 @@
+[project]
+name = "ott-ingest"
+version = "0.1.0"
+description = "Development-scale reference implementation of ADR-002: consent-enforcing regional ingest"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Deokhwa Jeong" }]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "I", "B", "UP", "SIM", "RUF"]

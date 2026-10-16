@@ -1,8 +1,5 @@
 # Diagrams
 
-## TODO
+The C4 system context, container, and deployment diagrams are written in Mermaid and live inline in [Architecture Overview](../docs/02-architecture-overview.md), so they render on GitHub and change in the same diff as the text they illustrate.
 
-- Add system context diagram (C4 Level 1)
-- Add container diagram (C4 Level 2)
-- Add deployment diagram showing multi-region layout
-- Diagrams will be created using a text-based tool (e.g., Mermaid, PlantUML, or Structurizr DSL)
+This folder is kept for exported images if a slide or PDF version is ever needed.

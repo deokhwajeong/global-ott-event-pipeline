@@ -8,6 +8,6 @@ ADRs capture the context, decision, and consequences of architecturally signific
 
 | ADR | Title | Status |
 |---|---|---|
-| [ADR-001](ADR-001-multi-region-strategy.md) | Multi-Region Strategy | Planned |
+| [ADR-001](ADR-001-multi-region-strategy.md) | Regional Cells with Aggregate-Only Global View | Accepted |
 | [ADR-002](ADR-002-event-ingest-pattern.md) | Consent-Enforcing Regional Ingest | Accepted |
-| [ADR-003](ADR-003-partner-integration-pattern.md) | Partner Integration Pattern | Planned |
+| [ADR-003](ADR-003-partner-integration-pattern.md) | Platform-First Partner Integration with Declared Extensions | Accepted |
