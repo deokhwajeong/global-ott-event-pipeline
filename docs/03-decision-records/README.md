@@ -6,6 +6,8 @@ ADRs capture the context, decision, and consequences of architecturally signific
 
 ## Index
 
-- [ADR-001: Multi-Region Strategy](ADR-001-multi-region-strategy.md)
-- [ADR-002: Event Ingest Pattern](ADR-002-event-ingest-pattern.md)
-- [ADR-003: Partner Integration Pattern](ADR-003-partner-integration-pattern.md)
+| ADR | Title | Status |
+|---|---|---|
+| [ADR-001](ADR-001-multi-region-strategy.md) | Multi-Region Strategy | Planned |
+| [ADR-002](ADR-002-event-ingest-pattern.md) | Consent-Enforcing Regional Ingest | Accepted |
+| [ADR-003](ADR-003-partner-integration-pattern.md) | Partner Integration Pattern | Planned |

@@ -2,7 +2,7 @@
 
 ## Status
 
-TODO
+Planned
 
 ## Context
 
